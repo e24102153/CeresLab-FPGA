@@ -6,7 +6,7 @@ Sign up an account at [AMD website](https://www.amd.com/en.html)
 Download Vivado from [AMD Download](https://www.xilinx.com/support/download.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
 Above 2023.2 use AMD Unified Installer
 
-Select Vitis for download Vivado + Vitis + Vivado HLS
+Select Vitis for download Vivado + Vitis + Vivado HLS, remeber no any chinese or symbols at installation paths
 ![AMD Download Select Vitis](images/AMD_Download_SelectVitis.PNG)  
 
 Select board files or you can add specify board files at "C:\Xilinx\Vivado\2023.2\data\xhub\boards\XilinxBoardStore\boards\Xilinx" (take 2023.2 for instance)
