@@ -28,5 +28,8 @@ Key in address
 Download license!!!
 ![AMD License 4](images/AMD_License_4.PNG)  
 
-Open license manager to manage your license here
+Open Vivado then click Help->Manage License
 ![AMD License 5](images/AMD_License_5.PNG)  
+
+Upload your license here
+![AMD License 5](images/AMD_License_6.PNG)  
