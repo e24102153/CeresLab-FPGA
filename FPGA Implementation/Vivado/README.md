@@ -32,3 +32,23 @@ Click Finish
 
 # Step2. Vivado Gui introduction
 ![Vivado_Gui_9](images/Vivado_9.PNG)  
+1. Project Manager
+Include : Settings, Add Sources, IP Catalog
+2. IP Integrator
+Block Design for your whole system，and cand add Xilinx or third party IP to create your design
+3. Simulation
+Simulation your design in Vivado
+4. Synthesis
+Synthesis your design by CLB, BRAM, DSP
+5. Implementation & Generate Bitstream(below, not in the graph)
+Put your design on FPGA (Floor & Plan) and generate completed design to bit files
+6. Sources
+Design Sources, Constraints, Simulation Sources
+7.
+- Tcl Console : type in instructions
+- Message : any messages, warning, error will show here
+- Log : log
+- Reports : synthesis & implementation timimg, power, utilization...etc. informations。
+- Design Runs : show your design stages。
+8. Project Summary
+9.. Synthesis & Implementation Summary
