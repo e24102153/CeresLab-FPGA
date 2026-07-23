@@ -49,6 +49,6 @@ Design Sources, Constraints, Simulation Sources
 - Message : any messages, warning, error will show here
 - Log : log
 - Reports : synthesis & implementation timimg, power, utilization...etc. informations。
-- Design Runs : show your design stages。
-8. Project Summary
+- Design Runs : show your design stages
+8. Project Summary  
 9.. Synthesis & Implementation Summary
